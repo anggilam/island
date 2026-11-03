@@ -1,6 +1,6 @@
 # La Zhuo — Island Portfolio
 
-A floating 3D island portfolio built with three.js. Hosted on GitHub Pages.
+A floating 3D island portfolio built with three.js. Live at https://anggilam.github.io/island/ (GitHub Pages).
 
 ## What's where
 
