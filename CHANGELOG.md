@@ -2,6 +2,9 @@
 
 Newest first. One short line per update is enough.
 
+## v4 — new studio homepage
+- New single-file homepage (studio intro, projects, island) replacing the old index.
+
 ## v3 — snow and gentle rain
 - Snow is the island's default weather; storm replaced by gentle rain.
 - Weather buttons (Live, Dawn, Rain, Snow) now visible to visitors; new opening camera angle.
