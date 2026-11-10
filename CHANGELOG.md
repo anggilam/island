@@ -2,6 +2,9 @@
 
 Newest first. One short line per update is enough.
 
+## v5 — Whisk case study refresh
+- Warmer brown ink color across the page; Whisk case study gets a sketches collage, photo grid, learnings and next-steps sections, and a journey map; cleaner frameless images.
+
 ## v4 — new studio homepage
 - New single-file homepage (studio intro, projects, island) replacing the old index.
 
